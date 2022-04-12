@@ -266,8 +266,7 @@ padding: 0;
 	background-color:#626262;
 }
 .stdblockimg{height:60vw;width:90vw;}
-}
-.popular{
+	.popular{
 	display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -276,5 +275,7 @@ padding: 0;
     margin-bottom: 1vh;
     width: 100%;
 }
+}
+
 
 </style>

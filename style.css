@@ -146,14 +146,14 @@ padding: 0;
 .stdblock {
 	list-style-type: none;
 	margin-top: 1vh;
-
+	font-size:2vh;
 	margin-left: 0.5vw; 
 	float:left;
-	width:31vw;
-	height:25vw;
+	width:31vh;
+	height:26vh;
 	background-color:#626262;
 }
-.stdblockimg{height:20vw;width:30vw;}
+.stdblockimg{height:19vh;width:30vh;}
 
 .formblock{
 	width:100%;

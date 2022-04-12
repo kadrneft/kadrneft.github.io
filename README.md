@@ -1,2 +1,0 @@
-# kadrneft.github.io
-КАДР

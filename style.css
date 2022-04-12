@@ -267,6 +267,14 @@ padding: 0;
 }
 .stdblockimg{height:60vw;width:90vw;}
 }
-
+.popular{
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;	
+    margin-bottom: 1vh;
+    width: 100%;
+}
 
 </style>

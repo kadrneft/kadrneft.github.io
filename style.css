@@ -8378,7 +8378,7 @@ border:solid rgba(255,255,255,0);
 border-width: 0 0 0 0;
 box-shadow:none;
 margin:0 0 0 0;
-background:url(images/254240044html_row7.jpg);
+background:url(1.jpg);
 background-color:#FFFFFF;
 background-repeat:no-repeat;
 background-size:cover;
@@ -9451,7 +9451,7 @@ display:none;
 }
  header#ttr_header 
 {
-background:url(images/254240044header.jpg);
+background:url(mpk.jpg);
 background-color:#FFFFFF;
 background-repeat:no-repeat;
 background-size:cover;
@@ -10172,7 +10172,7 @@ display:none;
 }
  footer 
 {
-position: relative;
+
 background-color:#000000;
 background:rgba(0,0,0,1);
 background-clip:padding-box;border-radius:0 0 0 0;
@@ -10180,6 +10180,7 @@ border:solid #DCDCDC;
 border:solid rgba(220,220,220,1);
 border-width: 0 0 0 0;
 box-shadow:none;
+position: absolute;
 margin:100px 0 0 0;
 }
  .ttr_footer_bottom_footer 
